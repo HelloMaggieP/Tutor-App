@@ -24,7 +24,7 @@ A web app to connect mentees with volunteer mentors, with the aim to help refuge
 - A mentee can then pick which mentor they want to connect with. 
 - Once a mentor and mentee are connected, a mentor can organise an online session with any of their mentees. 
 
-## Screenshots
+## Screenshot
 
 <img width="1280" alt="Screenshot of homepage" src="https://user-images.githubusercontent.com/84106779/139465751-8c1aa92d-4e4b-4b64-b357-37ddcefd5aba.png">
 
@@ -35,7 +35,7 @@ A web app to connect mentees with volunteer mentors, with the aim to help refuge
 - Web hosting.
 - Option to change language of the webpage.
 - Location-based → for in-person sessions, and to see your local network.
-- Mobile web app version with media queries (MP ADDED Sat 16th OCT)
+- Mobile web app version with media queries
 - Functionality for mentees to review their mentors.
 - Chat room / social function.
 - Add students to a friend list.
